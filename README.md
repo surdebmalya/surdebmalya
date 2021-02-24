@@ -7,7 +7,7 @@
 
 📖 In my free time, I solve puzzles and the reasoning part of different kind of entrance exams, I also like to take part in any kind of communication and also like to play games when I need instant boost!
 
-## 🎯 Area of Interests
+## 🎯 Areas of Interest
 - Logics of Computer Science 
 - Mathematics
 - Brains and Human Psychology
