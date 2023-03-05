@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-👨‍🎓 I am Debmalya Sur, pursuing my Bachelors in Computer Science & Engineering (CSE).
+👨‍🎓 I am Debmalya Sur, pursuing my Masters in Computer Science & Engineering (CSE) from Indian Institute of Technology (IIT) Dhanbad.
 
 ✨ I love to explore mathematics and always try to build a strong connection between theoretical and practical scenarios in this digital era.
 
